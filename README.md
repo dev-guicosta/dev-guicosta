@@ -28,12 +28,12 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guicosta&layout=compact&locale=pt-br&hide_border=true&border_radius=12&bg_color=111111&title_color=8147F6&text_color=D9D9D9" alt="Linguagens mais usadas">
 </p>
 
-## 🐍 Contribuições
+## 🟪 Contribuições
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-guicosta/dev-guicosta/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-guicosta/dev-guicosta/output/snake-light.svg">
-    <img alt="Gráfico de contribuições animado" src="https://raw.githubusercontent.com/dev-guicosta/dev-guicosta/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-guicosta/dev-guicosta/output/contribuicoes-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-guicosta/dev-guicosta/output/contribuicoes-light.svg">
+    <img alt="Gráfico de contribuições animado" width="100%" src="https://raw.githubusercontent.com/dev-guicosta/dev-guicosta/output/contribuicoes-dark.svg">
   </picture>
 </p>
