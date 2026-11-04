@@ -24,8 +24,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-guicosta&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=12&bg_color=111111&title_color=8147F6&icon_color=C8E89E&text_color=D9D9D9" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guicosta&layout=compact&locale=pt-br&hide_border=true&border_radius=12&bg_color=111111&title_color=8147F6&text_color=D9D9D9" alt="Linguagens mais usadas">
+  <img width="49%" src="https://raw.githubusercontent.com/dev-guicosta/dev-guicosta/output/estatisticas.svg" alt="Estatísticas do GitHub">
+  <img width="49%" src="https://raw.githubusercontent.com/dev-guicosta/dev-guicosta/output/linguagens.svg" alt="Linguagens mais usadas">
 </p>
 
 ## 🟪 Contribuições

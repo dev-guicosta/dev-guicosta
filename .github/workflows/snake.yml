@@ -21,10 +21,11 @@ jobs:
         with:
           node-version: 20
 
-      - name: Gerar SVG animado
+      - name: Gerar SVGs (contribuições, estatísticas e linguagens)
         run: node .github/scripts/contribuicoes.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }} # opcional: inclui repositórios privados
           GITHUB_USER: ${{ github.repository_owner }}
           OUT_DIR: dist
 
